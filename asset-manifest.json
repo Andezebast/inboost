@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inboost/static/css/main.631eb1f6.css",
+    "main.js": "/inboost/static/js/main.6a880fbf.js",
+    "index.html": "/inboost/index.html",
+    "main.631eb1f6.css.map": "/inboost/static/css/main.631eb1f6.css.map",
+    "main.6a880fbf.js.map": "/inboost/static/js/main.6a880fbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.631eb1f6.css",
+    "static/js/main.6a880fbf.js"
+  ]
+}
