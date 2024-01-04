@@ -1,0 +1,40 @@
+.select-box {
+  padding: 5px;
+  border-radius: 4px;
+  margin: 10px 0;
+  background-color: rgba(209, 231, 221, 1);
+  position: relative;
+}
+.select-box svg {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 15px;
+  width: 20px;
+  height: 20px;
+}
+.select-box.secondInput {
+  margin-left: 100px;
+}
+.select-box.thirdInput {
+  margin-left: 200px;
+}
+.select-box.fourthInput {
+  margin-left: 300px;
+}
+.select-box .select {
+  cursor: pointer;
+  outline: none;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(55, 53, 47, 1);
+  padding: 10px;
+  border-radius: 4px;
+  border: 0.66px solid rgba(71, 159, 118, 1);
+  background: linear-gradient(0deg, #ffffff, #ffffff),
+    linear-gradient(0deg, #479f76, #479f76);
+  min-width: 235px;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
